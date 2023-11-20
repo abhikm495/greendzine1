@@ -38,6 +38,10 @@ input[type="text"]::placeholder {
   flex-direction: column;
   margin-top: 230px;
   height: 80vh;
+  overflow-y: scroll;
+}
+.employee-details::-webkit-scrollbar {
+  display: none;
 }
 
 .employee-card {
