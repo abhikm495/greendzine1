@@ -8,7 +8,7 @@ const ProgressBar = ({ data }) => {
         paddingTop: "20px",
         padding: "10px",
         borderRadius: "10px",
-        marginBottom: "100px",
+        marginBottom: "200px",
         overflow: "hidden",
       }}
     >

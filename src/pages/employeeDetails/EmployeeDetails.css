@@ -84,15 +84,18 @@ input[type="text"]::placeholder {
 }
 
 .header-count {
-  width: 15px;
-  height: 15px;
+  width: 25px;
+  height: 25px;
   position: absolute;
-  top: -20px;
-  right: 85px;
+  top: -21px;
+  right: 74px;
   background-color: rgb(94, 94, 94, 0.2);
   color: #36a546;
-  padding: 6px;
+  padding: 5px;
   border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .fixed {
