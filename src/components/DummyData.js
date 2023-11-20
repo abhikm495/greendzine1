@@ -25,7 +25,7 @@ const employeeData = [
   },
   {
     id: 5,
-    name: "Abhigyan",
+    name: "sunny",
     dob: "01-01-2003",
     role: "Dev Ops",
   },
